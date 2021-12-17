@@ -1,0 +1,28 @@
+header {
+	background: rgb(238, 238, 189);
+}
+
+.container {
+	position: relative;
+	max-width: 1200px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin: 0 auto;
+}
+
+
+.header__inner {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+}
+
+.out {
+	margin: 0 auto;
+	font-size: 28px;
+	padding: 60px;
+	width: 640px;
+	height: 480px;
+	border: 1px solid black;
+}
